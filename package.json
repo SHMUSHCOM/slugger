@@ -1,0 +1,19 @@
+{
+  "name": "@shmush/slugger",
+  "version": "1.0.0",
+  "description": "This package easily converts blog titles to a slug that can be used in URLs",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/package-consumer.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ajar/marker": "^1.3.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
