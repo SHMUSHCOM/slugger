@@ -1,6 +1,6 @@
 {
   "name": "@shmush/slugger",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "This package easily converts blog titles to a slug that can be used in URLs",
   "main": "src/index.js",
   "type": "module",
