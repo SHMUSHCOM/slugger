@@ -1,6 +1,6 @@
 # slugger.js
 
-Use Slugger to easily connver blog post titles to URL slugs. For example, "This amazing blog post" will become this-amazing-blog-post.
+Use Slugger to easily convert blog post titles to URL slugs. For example, "This amazing blog post" will become this-amazing-blog-post.
 
 **Example:**
 ```
